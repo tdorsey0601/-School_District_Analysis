@@ -1,2 +1,3 @@
 # -School_District_Analysis
 from module 4
+The Analysis completed reviewed a dataset of charter and public schools for math and reading scores. The last two items in the deliverable showed a couple of data points including Montgomery and Green High school being the two largest schools and the charter verse public schools math scores show some inconsistency. Charter schools have the best 9th grade math score, but the public schools have a better 12th grade math score. Additional analysis should be completed to review reading scores by school type and review the scores based on school size. The school size will help identify if there are any specific outliers that are not consistent with the data population.
